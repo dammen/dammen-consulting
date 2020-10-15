@@ -23,55 +23,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3962170d-e4bf-4e11-9de0-8a0e0062aaa6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.dammenConsulting/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.dammenConsulting/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.dammenConsulting/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.dammenConsulting/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.dammenConsulting/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.dammenConsulting/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.dammenConsulting/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dammenConsulting/Controllers/AccountController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dammenConsulting/Controllers/ConfigController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ClientApp/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../ClientApp/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ClientApp/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../ClientApp/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ClientApp/src/components/NavMenu.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../ClientApp/src/components/NavMenu.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Controllers/WeatherForecastController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Pages/Error.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Pages/Error.cshtml.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Pages/_ViewImports.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Properties/launchSettings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Startup.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../WeatherForecast.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../appsettings.Development.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../appsettings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../bin/Debug/netcoreapp3.1/Properties/launchSettings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../bin/Debug/netcoreapp3.1/appsettings.Development.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../bin/Debug/netcoreapp3.1/appsettings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../bin/Debug/netcoreapp3.1/dammen-consulting.deps.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../bin/Debug/netcoreapp3.1/dammen-consulting.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../bin/Debug/netcoreapp3.1/dammen-consulting.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../bin/Debug/netcoreapp3.1/dammen-consulting.runtimeconfig.dev.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../bin/Debug/netcoreapp3.1/dammen-consulting.runtimeconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../obj/Debug/netcoreapp3.1/dammen-consulting.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../obj/Debug/netcoreapp3.1/dammen-consulting.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../obj/Debug/netcoreapp3.1/dammen-consulting.MvcApplicationPartsAssemblyInfo.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../obj/Debug/netcoreapp3.1/dammen-consulting.RazorTargetAssemblyInfo.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../obj/Debug/netcoreapp3.1/dammen-consulting.assets.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../obj/Debug/netcoreapp3.1/dammen-consulting.csproj.CoreCompileInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../obj/Debug/netcoreapp3.1/dammen-consulting.csproj.FileListAbsolute.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../obj/Debug/netcoreapp3.1/dammen-consulting.csprojAssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../obj/Debug/netcoreapp3.1/dammen-consulting.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../obj/Debug/netcoreapp3.1/dammen-consulting.genruntimeconfig.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../obj/Debug/netcoreapp3.1/dammen-consulting.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../obj/Debug/netcoreapp3.1/staticwebassets/dammen-consulting.StaticWebAssets.Manifest.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../obj/Debug/netcoreapp3.1/staticwebassets/dammen-consulting.StaticWebAssets.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../obj/dammen-consulting.csproj.nuget.dgspec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../obj/dammen-consulting.csproj.nuget.g.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../obj/dammen-consulting.csproj.nuget.g.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../obj/project.assets.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClientApp/src/components/Admin.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClientApp/src/components/App.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClientApp/src/components/Home.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClientApp/src/components/Layout.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClientApp/src/components/NavMenu.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClientApp/src/components/NavMenu.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClientApp/src/components/Projects.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClientApp/src/custom.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../client/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../client/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../client/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../client/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../client/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.dammenConsulting/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.dammenConsulting/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.dammenConsulting/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.dammenConsulting/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dammenConsulting/wwwroot/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/dammenConsulting/wwwroot/asset-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dammenConsulting/wwwroot/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/dammenConsulting/wwwroot/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dammenConsulting/wwwroot/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dammenConsulting/wwwroot/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dammenConsulting/wwwroot/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/dammenConsulting/wwwroot/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dammenConsulting/wwwroot/precache-manifest.ce01460bdbadc1e48e8c867929eaaa48.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dammenConsulting/wwwroot/service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/dammenConsulting/wwwroot/service-worker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dammenConsulting/wwwroot/static/css/2.67123b20.chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dammenConsulting/wwwroot/static/css/2.67123b20.chunk.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dammenConsulting/wwwroot/static/css/main.13b298a8.chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dammenConsulting/wwwroot/static/css/main.13b298a8.chunk.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dammenConsulting/wwwroot/static/js/2.e5a659ac.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dammenConsulting/wwwroot/static/js/2.e5a659ac.chunk.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dammenConsulting/wwwroot/static/js/2.e5a659ac.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dammenConsulting/wwwroot/static/js/main.c7422d46.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dammenConsulting/wwwroot/static/js/main.c7422d46.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dammenConsulting/wwwroot/static/js/runtime-main.3a802284.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dammenConsulting/wwwroot/static/js/runtime-main.3a802284.js.map" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,10 +73,10 @@
       <list>
         <option value="$PROJECT_DIR$/dammenConsulting/appsettings.json" />
         <option value="$PROJECT_DIR$/dammenConsulting/Startup.cs" />
-        <option value="$PROJECT_DIR$/dammenConsulting/Controllers/ConfigController.cs" />
         <option value="$PROJECT_DIR$/dammenConsulting/Controllers/HomeController.cs" />
         <option value="$PROJECT_DIR$/dammenConsulting/Controllers/Account.cs" />
         <option value="$PROJECT_DIR$/dammenConsulting/Controllers/AccountController.cs" />
+        <option value="$PROJECT_DIR$/dammenConsulting/Controllers/ConfigController.cs" />
       </list>
     </option>
   </component>
@@ -106,8 +88,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.3496708" />
-    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.29992685" />
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.25879806" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.22198159" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -156,6 +138,7 @@
       <workItem from="1598811426428" duration="5829000" />
       <workItem from="1598989492206" duration="165000" />
       <workItem from="1599077465881" duration="9966000" />
+      <workItem from="1599266024022" duration="2938000" />
     </task>
     <servers />
   </component>
@@ -180,109 +163,157 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="313" key="GridCell.Tab.0.bottom" timestamp="1599120836545">
+    <state width="422" height="464" key="DebuggerActiveHint" timestamp="1599268970473">
       <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="422" height="464" key="DebuggerActiveHint/0.23.1440.877@0.23.1440.877" timestamp="1599268970473" />
+    <state width="1878" height="313" key="GridCell.Tab.0.bottom" timestamp="1599457590401">
+      <screen x="-276" y="-1057" width="1920" height="1057" />
     </state>
     <state width="1398" height="313" key="GridCell.Tab.0.bottom/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1598858413497" />
-    <state width="1398" height="313" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1599120836545" />
-    <state width="1398" height="313" key="GridCell.Tab.0.center" timestamp="1599120836544">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1878" height="313" key="GridCell.Tab.0.bottom/0.23.1440.877/-276.-1057.1920.1057@-276.-1057.1920.1057" timestamp="1599457590401" />
+    <state width="1398" height="313" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1599273223025" />
+    <state width="1878" height="313" key="GridCell.Tab.0.center" timestamp="1599457590400">
+      <screen x="-276" y="-1057" width="1920" height="1057" />
     </state>
     <state width="1398" height="313" key="GridCell.Tab.0.center/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1598858413496" />
-    <state width="1398" height="313" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1599120836544" />
-    <state width="1398" height="313" key="GridCell.Tab.0.left" timestamp="1599120836543">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1878" height="313" key="GridCell.Tab.0.center/0.23.1440.877/-276.-1057.1920.1057@-276.-1057.1920.1057" timestamp="1599457590400" />
+    <state width="1398" height="313" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1599273223024" />
+    <state width="1878" height="313" key="GridCell.Tab.0.left" timestamp="1599457590400">
+      <screen x="-276" y="-1057" width="1920" height="1057" />
     </state>
     <state width="1398" height="313" key="GridCell.Tab.0.left/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1598858413495" />
-    <state width="1398" height="313" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1599120836543" />
-    <state width="1398" height="313" key="GridCell.Tab.0.right" timestamp="1599120836545">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1878" height="313" key="GridCell.Tab.0.left/0.23.1440.877/-276.-1057.1920.1057@-276.-1057.1920.1057" timestamp="1599457590400" />
+    <state width="1398" height="313" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1599273223024" />
+    <state width="1878" height="313" key="GridCell.Tab.0.right" timestamp="1599457590401">
+      <screen x="-276" y="-1057" width="1920" height="1057" />
     </state>
     <state width="1398" height="313" key="GridCell.Tab.0.right/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1598858413497" />
-    <state width="1398" height="313" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1599120836544" />
-    <state width="1398" height="313" key="GridCell.Tab.1.bottom" timestamp="1599120836546">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1878" height="313" key="GridCell.Tab.0.right/0.23.1440.877/-276.-1057.1920.1057@-276.-1057.1920.1057" timestamp="1599457590401" />
+    <state width="1398" height="313" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1599273223025" />
+    <state width="1878" height="313" key="GridCell.Tab.1.bottom" timestamp="1599457590402">
+      <screen x="-276" y="-1057" width="1920" height="1057" />
     </state>
     <state width="1398" height="313" key="GridCell.Tab.1.bottom/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1598858413498" />
-    <state width="1398" height="313" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1599120836546" />
-    <state width="1398" height="313" key="GridCell.Tab.1.center" timestamp="1599120836546">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1878" height="313" key="GridCell.Tab.1.bottom/0.23.1440.877/-276.-1057.1920.1057@-276.-1057.1920.1057" timestamp="1599457590402" />
+    <state width="1398" height="313" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1599273467167" />
+    <state width="1878" height="313" key="GridCell.Tab.1.center" timestamp="1599457590401">
+      <screen x="-276" y="-1057" width="1920" height="1057" />
     </state>
     <state width="1398" height="313" key="GridCell.Tab.1.center/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1598858413497" />
-    <state width="1398" height="313" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1599120836546" />
-    <state width="1398" height="313" key="GridCell.Tab.1.left" timestamp="1599120836545">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1878" height="313" key="GridCell.Tab.1.center/0.23.1440.877/-276.-1057.1920.1057@-276.-1057.1920.1057" timestamp="1599457590401" />
+    <state width="1398" height="313" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1599273467167" />
+    <state width="1878" height="313" key="GridCell.Tab.1.left" timestamp="1599457590401">
+      <screen x="-276" y="-1057" width="1920" height="1057" />
     </state>
     <state width="1398" height="313" key="GridCell.Tab.1.left/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1598858413497" />
-    <state width="1398" height="313" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1599120836545" />
-    <state width="1398" height="313" key="GridCell.Tab.1.right" timestamp="1599120836546">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1878" height="313" key="GridCell.Tab.1.left/0.23.1440.877/-276.-1057.1920.1057@-276.-1057.1920.1057" timestamp="1599457590401" />
+    <state width="1398" height="313" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1599273467166" />
+    <state width="1878" height="313" key="GridCell.Tab.1.right" timestamp="1599457590402">
+      <screen x="-276" y="-1057" width="1920" height="1057" />
     </state>
     <state width="1398" height="313" key="GridCell.Tab.1.right/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1598858413498" />
-    <state width="1398" height="313" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1599120836546" />
-    <state width="1398" height="313" key="GridCell.Tab.2.bottom" timestamp="1599120836548">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1878" height="313" key="GridCell.Tab.1.right/0.23.1440.877/-276.-1057.1920.1057@-276.-1057.1920.1057" timestamp="1599457590402" />
+    <state width="1398" height="313" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1599273467167" />
+    <state width="1878" height="313" key="GridCell.Tab.2.bottom" timestamp="1599457590402">
+      <screen x="-276" y="-1057" width="1920" height="1057" />
     </state>
     <state width="1398" height="313" key="GridCell.Tab.2.bottom/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1598858413499" />
-    <state width="1398" height="313" key="GridCell.Tab.2.bottom/0.23.1440.877@0.23.1440.877" timestamp="1599120836548" />
-    <state width="1398" height="313" key="GridCell.Tab.2.center" timestamp="1599120836547">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1878" height="313" key="GridCell.Tab.2.bottom/0.23.1440.877/-276.-1057.1920.1057@-276.-1057.1920.1057" timestamp="1599457590402" />
+    <state width="1398" height="313" key="GridCell.Tab.2.bottom/0.23.1440.877@0.23.1440.877" timestamp="1599273222887" />
+    <state width="1878" height="313" key="GridCell.Tab.2.center" timestamp="1599457590402">
+      <screen x="-276" y="-1057" width="1920" height="1057" />
     </state>
     <state width="1398" height="313" key="GridCell.Tab.2.center/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1598858413498" />
-    <state width="1398" height="313" key="GridCell.Tab.2.center/0.23.1440.877@0.23.1440.877" timestamp="1599120836547" />
-    <state width="1398" height="313" key="GridCell.Tab.2.left" timestamp="1599120836547">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1878" height="313" key="GridCell.Tab.2.center/0.23.1440.877/-276.-1057.1920.1057@-276.-1057.1920.1057" timestamp="1599457590402" />
+    <state width="1398" height="313" key="GridCell.Tab.2.center/0.23.1440.877@0.23.1440.877" timestamp="1599273222887" />
+    <state width="1878" height="313" key="GridCell.Tab.2.left" timestamp="1599457590402">
+      <screen x="-276" y="-1057" width="1920" height="1057" />
     </state>
     <state width="1398" height="313" key="GridCell.Tab.2.left/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1598858413498" />
-    <state width="1398" height="313" key="GridCell.Tab.2.left/0.23.1440.877@0.23.1440.877" timestamp="1599120836547" />
-    <state width="1398" height="313" key="GridCell.Tab.2.right" timestamp="1599120836548">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1878" height="313" key="GridCell.Tab.2.left/0.23.1440.877/-276.-1057.1920.1057@-276.-1057.1920.1057" timestamp="1599457590402" />
+    <state width="1398" height="313" key="GridCell.Tab.2.left/0.23.1440.877@0.23.1440.877" timestamp="1599273222886" />
+    <state width="1878" height="313" key="GridCell.Tab.2.right" timestamp="1599457590402">
+      <screen x="-276" y="-1057" width="1920" height="1057" />
     </state>
     <state width="1398" height="313" key="GridCell.Tab.2.right/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1598858413499" />
-    <state width="1398" height="313" key="GridCell.Tab.2.right/0.23.1440.877@0.23.1440.877" timestamp="1599120836548" />
-    <state width="1398" height="313" key="GridCell.Tab.3.bottom" timestamp="1599120836549">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1878" height="313" key="GridCell.Tab.2.right/0.23.1440.877/-276.-1057.1920.1057@-276.-1057.1920.1057" timestamp="1599457590402" />
+    <state width="1398" height="313" key="GridCell.Tab.2.right/0.23.1440.877@0.23.1440.877" timestamp="1599273222887" />
+    <state width="1878" height="313" key="GridCell.Tab.3.bottom" timestamp="1599457590403">
+      <screen x="-276" y="-1057" width="1920" height="1057" />
     </state>
     <state width="1398" height="313" key="GridCell.Tab.3.bottom/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1598858413500" />
-    <state width="1398" height="313" key="GridCell.Tab.3.bottom/0.23.1440.877@0.23.1440.877" timestamp="1599120836549" />
-    <state width="1398" height="313" key="GridCell.Tab.3.center" timestamp="1599120836548">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1878" height="313" key="GridCell.Tab.3.bottom/0.23.1440.877/-276.-1057.1920.1057@-276.-1057.1920.1057" timestamp="1599457590403" />
+    <state width="1398" height="313" key="GridCell.Tab.3.bottom/0.23.1440.877@0.23.1440.877" timestamp="1599273222887" />
+    <state width="1878" height="313" key="GridCell.Tab.3.center" timestamp="1599457590403">
+      <screen x="-276" y="-1057" width="1920" height="1057" />
     </state>
     <state width="1398" height="313" key="GridCell.Tab.3.center/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1598858413500" />
-    <state width="1398" height="313" key="GridCell.Tab.3.center/0.23.1440.877@0.23.1440.877" timestamp="1599120836548" />
-    <state width="1398" height="313" key="GridCell.Tab.3.left" timestamp="1599120836548">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1878" height="313" key="GridCell.Tab.3.center/0.23.1440.877/-276.-1057.1920.1057@-276.-1057.1920.1057" timestamp="1599457590403" />
+    <state width="1398" height="313" key="GridCell.Tab.3.center/0.23.1440.877@0.23.1440.877" timestamp="1599273222887" />
+    <state width="1878" height="313" key="GridCell.Tab.3.left" timestamp="1599457590402">
+      <screen x="-276" y="-1057" width="1920" height="1057" />
     </state>
     <state width="1398" height="313" key="GridCell.Tab.3.left/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1598858413499" />
-    <state width="1398" height="313" key="GridCell.Tab.3.left/0.23.1440.877@0.23.1440.877" timestamp="1599120836548" />
-    <state width="1398" height="313" key="GridCell.Tab.3.right" timestamp="1599120836548">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1878" height="313" key="GridCell.Tab.3.left/0.23.1440.877/-276.-1057.1920.1057@-276.-1057.1920.1057" timestamp="1599457590402" />
+    <state width="1398" height="313" key="GridCell.Tab.3.left/0.23.1440.877@0.23.1440.877" timestamp="1599273222887" />
+    <state width="1878" height="313" key="GridCell.Tab.3.right" timestamp="1599457590403">
+      <screen x="-276" y="-1057" width="1920" height="1057" />
     </state>
     <state width="1398" height="313" key="GridCell.Tab.3.right/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1598858413500" />
-    <state width="1398" height="313" key="GridCell.Tab.3.right/0.23.1440.877@0.23.1440.877" timestamp="1599120836548" />
-    <state width="1398" height="313" key="GridCell.Tab.4.bottom" timestamp="1599120836549">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1878" height="313" key="GridCell.Tab.3.right/0.23.1440.877/-276.-1057.1920.1057@-276.-1057.1920.1057" timestamp="1599457590403" />
+    <state width="1398" height="313" key="GridCell.Tab.3.right/0.23.1440.877@0.23.1440.877" timestamp="1599273222887" />
+    <state width="1878" height="313" key="GridCell.Tab.4.bottom" timestamp="1599457590404">
+      <screen x="-276" y="-1057" width="1920" height="1057" />
     </state>
     <state width="1398" height="313" key="GridCell.Tab.4.bottom/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1598858413501" />
-    <state width="1398" height="313" key="GridCell.Tab.4.bottom/0.23.1440.877@0.23.1440.877" timestamp="1599120836549" />
-    <state width="1398" height="313" key="GridCell.Tab.4.center" timestamp="1599120836549">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1878" height="313" key="GridCell.Tab.4.bottom/0.23.1440.877/-276.-1057.1920.1057@-276.-1057.1920.1057" timestamp="1599457590404" />
+    <state width="1398" height="313" key="GridCell.Tab.4.bottom/0.23.1440.877@0.23.1440.877" timestamp="1599273222888" />
+    <state width="1878" height="313" key="GridCell.Tab.4.center" timestamp="1599457590403">
+      <screen x="-276" y="-1057" width="1920" height="1057" />
     </state>
     <state width="1398" height="313" key="GridCell.Tab.4.center/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1598858413501" />
-    <state width="1398" height="313" key="GridCell.Tab.4.center/0.23.1440.877@0.23.1440.877" timestamp="1599120836549" />
-    <state width="1398" height="313" key="GridCell.Tab.4.left" timestamp="1599120836549">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1878" height="313" key="GridCell.Tab.4.center/0.23.1440.877/-276.-1057.1920.1057@-276.-1057.1920.1057" timestamp="1599457590403" />
+    <state width="1398" height="313" key="GridCell.Tab.4.center/0.23.1440.877@0.23.1440.877" timestamp="1599273222888" />
+    <state width="1878" height="313" key="GridCell.Tab.4.left" timestamp="1599457590403">
+      <screen x="-276" y="-1057" width="1920" height="1057" />
     </state>
     <state width="1398" height="313" key="GridCell.Tab.4.left/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1598858413500" />
-    <state width="1398" height="313" key="GridCell.Tab.4.left/0.23.1440.877@0.23.1440.877" timestamp="1599120836549" />
-    <state width="1398" height="313" key="GridCell.Tab.4.right" timestamp="1599120836549">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1878" height="313" key="GridCell.Tab.4.left/0.23.1440.877/-276.-1057.1920.1057@-276.-1057.1920.1057" timestamp="1599457590403" />
+    <state width="1398" height="313" key="GridCell.Tab.4.left/0.23.1440.877@0.23.1440.877" timestamp="1599273222888" />
+    <state width="1878" height="313" key="GridCell.Tab.4.right" timestamp="1599457590403">
+      <screen x="-276" y="-1057" width="1920" height="1057" />
     </state>
     <state width="1398" height="313" key="GridCell.Tab.4.right/0.23.1440.877/-1920.-157.1920.1057@0.23.1440.877" timestamp="1598858413501" />
-    <state width="1398" height="313" key="GridCell.Tab.4.right/0.23.1440.877@0.23.1440.877" timestamp="1599120836549" />
+    <state width="1878" height="313" key="GridCell.Tab.4.right/0.23.1440.877/-276.-1057.1920.1057@-276.-1057.1920.1057" timestamp="1599457590403" />
+    <state width="1398" height="313" key="GridCell.Tab.4.right/0.23.1440.877@0.23.1440.877" timestamp="1599273222888" />
     <state x="383" y="211" key="search.everywhere.popup" timestamp="1599080155428">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="383" y="211" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1599080155428" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/dammenConsulting/Controllers/AccountController.cs</url>
+          <line>29</line>
+          <properties documentPath="$PROJECT_DIR$/dammenConsulting/Controllers/AccountController.cs" initialLine="29">
+            <startOffsets>
+              <option value="1043" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1190" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="Type#Microsoft.AspNetCore.Identity.UserManager`1" memberName="_tokenProviders" />
+      </pinned-members>
+    </pin-to-top-manager>
   </component>
 </project>

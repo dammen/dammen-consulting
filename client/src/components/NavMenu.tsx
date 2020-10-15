@@ -1,8 +1,8 @@
 import React, {FunctionComponent, useState, useContext} from 'react';
 import {Collapse, Container, Navbar, NavbarBrand, NavbarToggler, NavItem, NavLink} from 'reactstrap';
 import {Link} from 'react-router-dom';
+import {ConfigContext} from '../contexts/config';
 import './NavMenu.css';
-import {ConfigContext} from './App';
 
 interface Props {
 

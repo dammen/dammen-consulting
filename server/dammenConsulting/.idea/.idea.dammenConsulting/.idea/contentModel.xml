@@ -63,24 +63,27 @@
           <e p="asset-manifest.json" t="Include" />
           <e p="favicon.ico" t="Include" />
           <e p="index.html" t="Include" />
+          <e p="logo192.png" t="Include" />
+          <e p="logo512.png" t="Include" />
           <e p="manifest.json" t="Include" />
-          <e p="precache-manifest.ce01460bdbadc1e48e8c867929eaaa48.js" t="Include" />
+          <e p="precache-manifest.0392c9a808c6885bd6cb088d4999bfb1.js" t="Include" />
+          <e p="robots.txt" t="Include" />
           <e p="service-worker.js" t="Include" />
           <e p="static" t="Include">
             <e p="css" t="Include">
-              <e p="2.67123b20.chunk.css" t="Include" />
-              <e p="2.67123b20.chunk.css.map" t="Include" />
-              <e p="main.13b298a8.chunk.css" t="Include" />
-              <e p="main.13b298a8.chunk.css.map" t="Include" />
+              <e p="2.8aa5a7f8.chunk.css" t="Include" />
+              <e p="2.8aa5a7f8.chunk.css.map" t="Include" />
+              <e p="main.60f7af15.chunk.css" t="Include" />
+              <e p="main.60f7af15.chunk.css.map" t="Include" />
             </e>
             <e p="js" t="Include">
-              <e p="2.e5a659ac.chunk.js" t="Include" />
-              <e p="2.e5a659ac.chunk.js.LICENSE.txt" t="Include" />
-              <e p="2.e5a659ac.chunk.js.map" t="Include" />
-              <e p="main.c7422d46.chunk.js" t="Include" />
-              <e p="main.c7422d46.chunk.js.map" t="Include" />
-              <e p="runtime-main.3a802284.js" t="Include" />
-              <e p="runtime-main.3a802284.js.map" t="Include" />
+              <e p="2.81583129.chunk.js" t="Include" />
+              <e p="2.81583129.chunk.js.LICENSE.txt" t="Include" />
+              <e p="2.81583129.chunk.js.map" t="Include" />
+              <e p="main.1ced3f27.chunk.js" t="Include" />
+              <e p="main.1ced3f27.chunk.js.map" t="Include" />
+              <e p="runtime-main.09b85ec0.js" t="Include" />
+              <e p="runtime-main.09b85ec0.js.map" t="Include" />
             </e>
           </e>
         </e>
